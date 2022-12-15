@@ -1,0 +1,28 @@
+﻿Library,Chart,RunningTime
+Matplotlib,Bar Chart,93.8
+Matplotlib,Scatter plot,200
+Matplotlib,Pie chart,282
+Matplotlib,Histogram,212
+Matplotlib,Line graph,151
+Matplotlib,Box plot,152
+Matplotlib,Area plot,210
+Matplotlib,Bubble plot,19.4
+Matplotlib,3D bubble plot,392
+Seaborn,Bar Chart,67.2
+Seaborn,Scatter plot,250
+Seaborn,Pie chart,277
+Seaborn,Histogram,112
+Seaborn,Line graph,212
+Seaborn,Box plot,168
+Seaborn,Area plot,62.2
+Seaborn,Bubble plot,194
+Seaborn,3D bubble plot,156
+Dash,Bar Chart,37.1
+Dash,Scatter plot,81.5
+Dash,Pie chart,84.3
+Dash,Histogram,206
+Dash,Line graph,68.8
+Dash,Box plot,244
+Dash,Area plot,48.6
+Dash,Bubble plot,172
+Dash,3D bubble plot,252
